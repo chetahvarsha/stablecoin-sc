@@ -1,0 +1,11 @@
+/home/dugong/Desktop/drt-stablecoin-sc/target/debug/deps/libwee_alloc-65357e1c5706a852.rmeta: /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/lib.rs /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/extra_assert.rs /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/const_init.rs /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/neighbors.rs /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/size_classes.rs /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/imp_unix.rs /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/size_classes_init.rs
+
+/home/dugong/Desktop/drt-stablecoin-sc/target/debug/deps/wee_alloc-65357e1c5706a852.d: /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/lib.rs /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/extra_assert.rs /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/const_init.rs /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/neighbors.rs /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/size_classes.rs /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/imp_unix.rs /home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/size_classes_init.rs
+
+/home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/lib.rs:
+/home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/extra_assert.rs:
+/home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/const_init.rs:
+/home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/neighbors.rs:
+/home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/size_classes.rs:
+/home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/imp_unix.rs:
+/home/dugong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wee_alloc-0.4.5/src/size_classes_init.rs:

@@ -1,0 +1,27 @@
+[package]
+name = "stablecoin-v2"
+version = "0.0.0"
+authors = [ "Sumanth <saisumanthvadla@gmail.com>" ]
+edition = "2024"
+publish = false
+
+[lib]
+path = "src/lib.rs"
+
+[features]
+wasm-output-mode = [ "numbat-wasm-node",]
+
+[dependencies.numbat-wasm]
+version = "0.20.1"
+features = [ "derive" ]
+
+[dependencies.numbat-wasm-node]
+version = "0.20.1"
+optional = true
+
+[dev-dependencies.numbat-wasm-debug]
+version = "0.20.1"
+
+[dependencies.price-aggregator-proxy]
+git = "https://github.com/NumbatNetwork/sc-chainlink-rs"
+rev = "8817a46"

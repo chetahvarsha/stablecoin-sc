@@ -1,0 +1,25 @@
+[package]
+name = "lock-rewards"
+version = "0.0.1"
+authors = ["Sumanth <saisumanthvadla@gmail.com>"]
+edition = "2024"
+publish = false
+
+[lib]
+path = "src/lib.rs"
+
+[features]
+wasm-output-mode = [ "numbat-wasm-node",]
+
+[dependencies.numbat-wasm]
+version = "0.17.2"
+
+[dependencies.numbat-wasm-derive]
+version = "0.17.2"
+
+[dependencies.numbat-wasm-node]
+version = "0.17.2"
+optional = true
+
+[dev-dependencies.numbat-wasm-debug]
+version = "0.17.2"
